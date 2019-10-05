@@ -12,7 +12,7 @@ import javax.swing.Timer;
 
 /**
  * Class utama yang merupakan turunan dari class JFrame dan implements dari
- * kelas abstract ActionListener
+ * interface ActionListener
  * 
  * @author USER
  * @since 5 Oct 2019
